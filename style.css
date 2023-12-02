@@ -91,8 +91,9 @@ body::-webkit-scrollbar-thumb {
 }
 
 #avatar {
-    height: 96%;
-    clip-path: circle(50% at 50% 50%);
+    height: 100%;
+    clip-path: circle(46% at 50% 50%);
+}
 }
 
 .div-name-app {
